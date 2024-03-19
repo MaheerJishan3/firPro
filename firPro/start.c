@@ -5,5 +5,7 @@ int main() {
 
     printf("This is the second input");
 
+    printf("This is the third input");
+
     return 0;
 }
